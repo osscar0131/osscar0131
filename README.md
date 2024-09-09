@@ -6,4 +6,4 @@
 - Task Lists
     - [x] Make README.md file (this thing right here)
     - [x] Edit README.md
-    - [ ] Commit and push README.md
+    - [x] Commit and push README.md
